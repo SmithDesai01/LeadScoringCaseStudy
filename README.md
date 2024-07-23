@@ -18,10 +18,10 @@ There are quite a few goals for this case study:
 
 **3 -** The overall approach of the analysis in a presentation.
       
-      **a -** Mention the problem statement and the analysis approach briefly 
+      a - Mention the problem statement and the analysis approach briefly 
         
-      **b -** Explain the results in business terms
+      b - Explain the results in business terms
        
-      **c -** Include visualisations and summarise the most important results in the presentation
+      c - Include visualisations and summarise the most important results in the presentation
 
 **4 -** A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
