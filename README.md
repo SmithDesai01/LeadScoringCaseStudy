@@ -3,9 +3,11 @@
 A group case study to create a model on what factors convert a lead to an actual customer
 
 **Contributors**
-Siva Sankare
-Snehal Kedar
-Smith Desai
+### Siva Sankare
+
+### Snehal Kedar
+
+### Smith Desai
 
 ## Goals of the Case Study
 There are quite a few goals for this case study:
